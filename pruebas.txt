@@ -1,2 +1,5 @@
 Prueba 1:
 La url era incorrecta - corregido
+
+Prueba 2:
+Contraseña muy debil - por corregir
